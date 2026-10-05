@@ -1,0 +1,501 @@
+ICAO Flight Type,STATFOR Market Segment,ADES,ADEP,AC Operator
+S,Traditional Scheduled,EIDW,LIRF,AZA
+S,Lowcost,LIRF,LHBP,WZZ
+S,Lowcost,LSGG,ESSA,NAX
+S,Traditional Scheduled,EDDM,EKCH,AFR
+S,All-Cargo,LTFJ,EDDF,FDX
+S,Traditional Scheduled,LPFR,LIRF,AZA
+S,Lowcost,EVRA,ESSA,NAX
+S,Traditional Scheduled,LTBJ,LOWW,AUA
+N,Charter,EDDH,EGCC,CFG
+S,Lowcost,EGPH,LGAV,EZY
+S,Traditional Scheduled,EDDH,ENGM,SAS
+N,Charter,EDDB,EDDF,TUI
+S,Traditional Scheduled,EKCH,EDDM,DLH
+S,Traditional Scheduled,ESSA,EFHK,EIN
+S,Lowcost,LFML,EPKK,VLG
+S,All-Cargo,LEMG,EHAM,DHK
+S,Traditional Scheduled,EPGD,EIDW,EIN
+S,Traditional Scheduled,LBSF,LFPO,AFR
+N,Charter,EDDB,ESMS,TUI
+S,Traditional Scheduled,KDFW,LYBE,AUA
+S,All-Cargo,OEJN,LOWL,UPS
+S,Lowcost,LSZB,LBSF,TVS
+S,Traditional Scheduled,EINN,EDDM,DLH
+S,All-Cargo,LPPR,EPGD,UPS
+S,Traditional Scheduled,LEMG,EHAM,KLM
+S,Traditional Scheduled,ELLX,EIDW,EIN
+S,Traditional Scheduled,LGTS,ENGM,SAS
+S,Traditional Scheduled,KATL,ENGM,DLH
+S,Traditional Scheduled,LEZL,LGAV,DLH
+S,Traditional Scheduled,VHHH,LIRN,IBE
+N,Charter,LKPR,EDDM,TUI
+S,Lowcost,LGAV,EGKK,EZY
+S,Traditional Scheduled,EYVI,LEMD,SWR
+S,Traditional Scheduled,ELLX,EDDL,DLH
+S,Traditional Scheduled,LFML,EKCH,SAS
+S,Traditional Scheduled,LROP,EDDL,DLH
+S,Traditional Scheduled,LTFJ,LIPE,LOT
+S,Traditional Scheduled,LCLK,ENBR,DLH
+S,Traditional Scheduled,EGCC,EGKK,BAW
+N,Charter,LIRF,LIRN,AMC
+S,Lowcost,EPGD,LIMC,EJU
+S,Traditional Scheduled,EFHK,EGKK,BAW
+S,Traditional Scheduled,LBWN,EIDW,EIN
+S,Traditional Scheduled,LIPE,LEBL,IBE
+S,Traditional Scheduled,LCLK,EGLL,KLM
+S,Lowcost,LFPG,ESSA,NAX
+S,Traditional Scheduled,ESGG,EGLL,VIR
+S,Lowcost,BIKF,LTAC,TOM
+S,Traditional Scheduled,LDDU,EIDW,AUA
+N,Charter,LIME,EDDF,CFG
+S,Traditional Scheduled,EDDK,LSZH,SWR
+S,All-Cargo,KATL,LEBL,DHK
+S,Traditional Scheduled,EGPH,EHAM,KLM
+S,Traditional Scheduled,BIKF,LSZH,SWR
+S,Traditional Scheduled,EYVI,LGAV,AEE
+N,All-Cargo,LEBL,EHAM,DHK
+N,Charter,LTFJ,LMML,AMC
+S,Traditional Scheduled,EGPH,EGLL,VIR
+S,Traditional Scheduled,LBSF,LKMT,EIN
+S,All-Cargo,LSZB,EHAM,DHK
+S,Traditional Scheduled,EGKK,LFMN,THY
+S,Traditional Scheduled,EINN,EHAM,KLM
+S,Traditional Scheduled,LHBP,LIMC,AZA
+S,Traditional Scheduled,EYVI,EFHK,FIN
+S,All-Cargo,ENBR,EPWA,UPS
+S,Lowcost,LOWG,EGCC,TOM
+S,Traditional Scheduled,EVRA,LIMC,AZA
+N,Charter,LMML,ESMS,CFG
+S,Traditional Scheduled,EGKK,LBSF,TAP
+N,Charter,EDDM,LFPG,TUI
+S,Lowcost,LKPR,LTFJ,PGT
+S,Traditional Scheduled,LHBP,EIDW,EIN
+S,Lowcost,LZIB,EIDW,RYR
+N,Charter,LGAV,EDDM,TUI
+S,Traditional Scheduled,EPKK,LFMN,EIN
+S,Traditional Scheduled,LIME,LIMC,AZA
+S,Lowcost,LIRF,EPWA,WZZ
+S,All-Cargo,LOWL,LOWG,UPS
+S,Traditional Scheduled,LGIR,LSZH,SWR
+S,All-Cargo,LGTS,EGLL,ABX
+N,Charter,ELLX,LEAL,TUI
+S,Lowcost,ESSA,LEBL,VLG
+S,Lowcost,UUEE,LSGG,EJU
+S,Traditional Scheduled,LIMC,UUEE,FIN
+S,Traditional Scheduled,LEZL,EKCH,SAS
+S,Lowcost,EINN,LKPR,TVS
+S,Traditional Scheduled,ELLX,EGKK,BAW
+S,Lowcost,LEMG,EGCC,RYR
+S,Lowcost,AAL,LHBP,VLG
+S,Traditional Scheduled,EDDK,LIME,SWR
+S,Lowcost,LIRN,LPMA,WZZ
+N,Charter,LTFJ,EDDM,TUI
+S,Traditional Scheduled,RJAA,LIPE,AFR
+S,All-Cargo,OEJN,LKMT,ABX
+S,Traditional Scheduled,EGCC,LKPR,EIN
+S,Traditional Scheduled,EDDF,EHAM,SWR
+S,Traditional Scheduled,UUEE,LPFR,IBE
+S,Traditional Scheduled,BIKF,LOWW,AUA
+S,Traditional Scheduled,LGIR,BIKF,BAW
+S,Traditional Scheduled,UUEE,EIDW,EIN
+S,Traditional Scheduled,EDDM,LJLJ,BAW
+S,All-Cargo,LFBO,EHAM,DHK
+S,Traditional Scheduled,LGAV,KEWR,AZA
+S,Traditional Scheduled,LTBJ,BIKF,LOT
+S,Traditional Scheduled,LFPG,EGKK,BAW
+S,Lowcost,LRCL,EIDW,RYR
+S,Lowcost,LYBE,LEAL,EJU
+N,Charter,EGGW,LMML,AMC
+N,Charter,LSZH,RJAA,TUI
+S,Traditional Scheduled,EIDW,LTFM,THY
+S,Traditional Scheduled,EDDF,EHAM,KLM
+S,Traditional Scheduled,EPGD,EKCH,TAP
+S,Traditional Scheduled,LGIR,LGAV,AEE
+S,Traditional Scheduled,LDDU,EKCH,SAS
+S,Traditional Scheduled,EDDK,EGLL,VIR
+S,Lowcost,LHBP,LIME,EJU
+S,Traditional Scheduled,LFBO,LTFM,THY
+S,Traditional Scheduled,EPKT,LRCL,EIN
+S,All-Cargo,LFBO,KJFK,DHK
+S,Lowcost,LYBE,LFPO,EZY
+S,Lowcost,LBSF,OEJN,RYR
+S,Traditional Scheduled,LEBL,LFMN,FIN
+S,Traditional Scheduled,LHBP,LPPR,TAP
+S,Charter,LPPT,LIPZ,CFG
+S,Traditional Scheduled,LTAC,LEZL,AEE
+S,Traditional Scheduled,EPWA,EGLL,BAW
+S,Lowcost,LFBO,EHAM,EJU
+S,Lowcost,LBWN,LIMC,TOM
+S,Traditional Scheduled,EGGW,EDDM,DLH
+S,Traditional Scheduled,LFPG,EGLL,VIR
+S,Lowcost,LYBE,LDZA,EJU
+S,Lowcost,ESSA,EGGW,EZY
+S,Traditional Scheduled,EBBR,ENGM,SAS
+S,All-Cargo,ESMS,EGLL,ABX
+S,Traditional Scheduled,LPPR,EFHK,FIN
+S,Traditional Scheduled,LTFM,ESSA,SAS
+S,Traditional Scheduled,LEZL,LFPO,AFR
+S,All-Cargo,LTFM,EDDF,DHK
+S,All-Cargo,KORD,LEPA,ABX
+S,Traditional Scheduled,LFPG,ESSA,TAP
+N,Charter,LFPO,LMML,AMC
+S,Traditional Scheduled,LEBL,LTBJ,SWR
+S,Traditional Scheduled,ESGG,LEAL,AFR
+N,Charter,LFMN,EDDM,TUI
+S,Traditional Scheduled,EDDB,HEGN,AZA
+S,All-Cargo,EETN,EHAM,FDX
+S,Traditional Scheduled,LTBJ,LHBP,LOT
+S,All-Cargo,EDDH,LPPT,FDX
+N,Charter,LTAC,ENBR,CFG
+S,Lowcost,EKCH,EYVI,EZY
+S,Traditional Scheduled,LIRF,LOWG,TAP
+S,Traditional Scheduled,LGAV,EGKK,BAW
+S,Lowcost,EIDW,LKPR,TVS
+S,Traditional Scheduled,LFMN,EFHK,TAP
+S,Traditional Scheduled,LMML,LPPR,TAP
+N,Charter,EDDM,LJLJ,CFG
+N,Charter,EGPH,EDDM,TUI
+S,Traditional Scheduled,EDDM,EHAM,KLM
+S,Traditional Scheduled,LSZB,LOWW,AUA
+S,Lowcost,LKMT,EETN,TOM
+S,Lowcost,EGKK,ELLX,PGT
+N,Charter,LFML,LTAC,TUI
+S,Lowcost,EFHK,ESSA,NAX
+S,Traditional Scheduled,LBSF,LGTS,AEE
+S,Traditional Scheduled,LHBP,EHAM,KLM
+S,Traditional Scheduled,EGGW,LDDU,SAS
+S,Traditional Scheduled,LGTS,LOWW,AZA
+S,Lowcost,LGAV,LROP,WZZ
+S,Traditional Scheduled,LFLL,EGKK,BAW
+S,All-Cargo,CYVR,ESMS,FDX
+S,All-Cargo,BIKF,GMMN,FDX
+S,Lowcost,EHAM,EGGW,EZY
+N,Charter,EDDF,LMML,AMC
+S,Traditional Scheduled,EDDH,BIKF,KLM
+S,Traditional Scheduled,EGCC,EDDK,THY
+S,Traditional Scheduled,LHBP,LKMT,FIN
+S,Traditional Scheduled,EGGW,EHAM,KLM
+S,Traditional Scheduled,LPPT,LIMC,AZA
+S,Lowcost,LSZB,ESSA,NAX
+S,Lowcost,LEMD,LROP,WZZ
+S,Traditional Scheduled,LFPO,EHAM,KLM
+S,Traditional Scheduled,LBSF,LIRF,AZA
+N,Charter,LOWL,EDDM,CFG
+S,Traditional Scheduled,LFPG,LKPR,KLM
+S,Traditional Scheduled,ESSA,LTFM,LOT
+S,Lowcost,LOWG,ENGM,NAX
+S,All-Cargo,LFPG,EDDF,UPS
+S,Traditional Scheduled,LJLJ,LIMC,AZA
+S,Traditional Scheduled,LZIB,EGCC,LOT
+S,All-Cargo,ENBR,EHAM,UPS
+S,All-Cargo,EIDW,EGLL,UPS
+S,All-Cargo,LEMG,EDDF,DHK
+N,Charter,LFPO,EYVI,TUI
+S,Lowcost,LSZH,LJLJ,TVS
+S,All-Cargo,LTFJ,EGLL,UPS
+N,Charter,ESSA,EDDM,CFG
+S,Traditional Scheduled,LJLJ,UUEE,THY
+S,All-Cargo,LEAL,LPPR,ABX
+N,Charter,EBBR,EGKK,TUI
+S,Traditional Scheduled,LBWN,LFPO,AFR
+S,All-Cargo,ELLX,EDDK,FDX
+S,Traditional Scheduled,ESMS,EKCH,SAS
+S,Lowcost,LBSF,LTFM,TOM
+S,Traditional Scheduled,EDDK,LOWW,AUA
+S,Traditional Scheduled,LCLK,LOWW,AUA
+S,All-Cargo,EINN,EHAM,UPS
+S,Traditional Scheduled,LMML,LOWG,AFR
+S,Lowcost,EDDF,EGKK,TOM
+S,Charter,AAL,EDDM,CFG
+S,Traditional Scheduled,LTFJ,EGLL,VIR
+S,Lowcost,EGLL,EPWA,WZZ
+S,All-Cargo,LJLJ,LGIR,DHK
+S,Lowcost,EDDL,LFPG,EJU
+S,Lowcost,LEZL,EGCC,TOM
+S,Lowcost,LGAV,ENGM,NAX
+S,Lowcost,LOWW,OMDB,TVS
+S,Lowcost,EKCH,LEMD,VLG
+S,Traditional Scheduled,LKMT,CYVR,SAS
+S,Traditional Scheduled,LTAC,EPWA,LOT
+N,Charter,EIDW,EVRA,CFG
+S,Traditional Scheduled,LKMT,ESSA,IBE
+S,Traditional Scheduled,LZIB,EFHK,FIN
+N,Charter,LGIR,LMML,AMC
+S,Traditional Scheduled,LSZB,LFPO,AFR
+S,Traditional Scheduled,LFBO,EFHK,FIN
+S,Traditional Scheduled,EKCH,LGTS,AEE
+S,Traditional Scheduled,EPKT,EHAM,KLM
+S,Traditional Scheduled,EBBR,LEMD,IBE
+S,Traditional Scheduled,LRCL,EPWA,LOT
+S,Lowcost,EGKK,LHBP,WZZ
+S,Traditional Scheduled,CYYZ,LPFR,THY
+S,Traditional Scheduled,LFMN,EKCH,SAS
+N,Charter,LTAC,BIKF,TUI
+S,Traditional Scheduled,LTAC,LFBO,IBE
+N,Charter,LPPR,LIME,CFG
+S,Traditional Scheduled,EPKT,LTBJ,AZA
+S,Lowcost,LIRF,LFPG,WZZ
+N,Charter,CYYZ,EPGD,TUI
+S,Lowcost,LIRF,EGCC,RYR
+N,Charter,LBWN,EDDM,TUI
+S,Lowcost,LFPG,LROP,WZZ
+N,Charter,LSGG,EDDM,CFG
+N,Charter,LBWN,EDDF,TUI
+S,Lowcost,EDDK,LROP,WZZ
+S,Traditional Scheduled,ENBR,GMMN,DLH
+N,Charter,LFPG,LFML,TUI
+S,All-Cargo,EETN,LIRF,UPS
+S,Traditional Scheduled,EDDM,LTFJ,TAP
+S,Traditional Scheduled,EYVI,EGLL,BAW
+S,Traditional Scheduled,LBSF,ENGM,AEE
+S,Traditional Scheduled,EGGW,LFMN,THY
+S,Traditional Scheduled,LSGG,LEBL,IBE
+S,Traditional Scheduled,ENBR,EHAM,KLM
+S,Traditional Scheduled,LGAV,LPPR,EIN
+S,Traditional Scheduled,EGKK,LSZH,SWR
+S,Traditional Scheduled,EGKK,EKCH,SAS
+S,All-Cargo,LJLJ,RJAA,DHK
+S,Traditional Scheduled,EDDB,EGKK,BAW
+S,Traditional Scheduled,LEBL,EFHK,FIN
+S,Traditional Scheduled,EVRA,LPMA,TAP
+S,Lowcost,EDDF,ENGM,NAX
+S,Lowcost,EVRA,EIDW,RYR
+S,Lowcost,LGIR,EDDF,RYR
+S,Lowcost,EBBR,ENGM,NAX
+S,Traditional Scheduled,LPPT,LSZH,SWR
+S,Traditional Scheduled,ENBR,OTHH,DLH
+N,Charter,LIPE,LEZL,CFG
+S,Traditional Scheduled,ENGM,EDDB,BAW
+S,All-Cargo,LGAV,EDDF,DHK
+S,All-Cargo,EBBR,EGLL,UPS
+S,Traditional Scheduled,LJLJ,ESGG,IBE
+S,Traditional Scheduled,EPWA,EGLL,VIR
+S,Traditional Scheduled,ESMS,LHBP,FIN
+S,Traditional Scheduled,LIRN,EDDB,AEE
+S,Traditional Scheduled,EGPH,LPPR,TAP
+S,Traditional Scheduled,LHBP,LFPO,IBE
+S,Lowcost,EGLL,EHAM,EZY
+S,Traditional Scheduled,LPPR,EGLL,BAW
+S,Traditional Scheduled,EDDB,LSZH,SWR
+S,Traditional Scheduled,EDDH,EFHK,BAW
+N,Charter,UUEE,EGKK,TUI
+S,Traditional Scheduled,EPGD,GMMN,EIN
+S,Lowcost,LEPA,EGKK,PGT
+S,Traditional Scheduled,LOWW,EDDF,DLH
+S,Traditional Scheduled,LIME,EGPH,KLM
+N,Charter,LFPG,EDDF,CFG
+S,Lowcost,LFLL,EGCC,TOM
+N,Charter,ENGM,LRCL,TUI
+S,Traditional Scheduled,LZIB,EPKK,LOT
+S,All-Cargo,VHHH,EDDF,UPS
+S,Traditional Scheduled,RJAA,LEBL,LOT
+S,Traditional Scheduled,EKCH,LSZH,SWR
+S,All-Cargo,LOWL,EGLL,ABX
+S,Traditional Scheduled,LIME,ESSA,SAS
+S,Traditional Scheduled,LIPE,LPPT,TAP
+S,Traditional Scheduled,LFPG,LFPO,AFR
+S,Traditional Scheduled,EPKK,ENGM,SAS
+S,Traditional Scheduled,LZIB,EIDW,EIN
+S,All-Cargo,LPPT,EDDF,DHK
+S,Traditional Scheduled,EGKK,LEMD,SAS
+S,Traditional Scheduled,EETN,LFPG,AFR
+S,Traditional Scheduled,LTAC,LOWG,AEE
+S,All-Cargo,EPGD,EGLL,ABX
+N,Charter,LOWW,LDDU,TUI
+S,Traditional Scheduled,EKCH,EGGW,IBE
+S,All-Cargo,EFHK,LOWW,DHK
+S,Lowcost,LFML,LIME,NAX
+N,All-Cargo,BIKF,EDDF,DHK
+N,Charter,LGTS,EDDM,TUI
+N,Charter,BIKF,EYVI,TUI
+N,Charter,LIPE,EDDM,TUI
+S,Traditional Scheduled,LEAL,EDDF,DLH
+S,Traditional Scheduled,LMML,LFPO,AFR
+S,Traditional Scheduled,LPMA,LPPR,TAP
+S,Traditional Scheduled,LSZB,LIMC,AZA
+S,Traditional Scheduled,EIDW,EGLL,BAW
+S,Traditional Scheduled,EDDB,EIDW,EIN
+S,Traditional Scheduled,EFHK,LPPR,TAP
+S,Lowcost,EGPH,EINN,RYR
+S,All-Cargo,EIDW,LFLL,FDX
+S,All-Cargo,EGGW,ENGM,FDX
+S,Lowcost,LIMC,LEBL,VLG
+S,Traditional Scheduled,LGAV,LOWW,AUA
+N,Charter,LTBJ,EGKK,TUI
+N,Charter,LHBP,EDDF,CFG
+S,Lowcost,EETN,LEBL,VLG
+S,Traditional Scheduled,LKPR,LHBP,AZA
+S,Traditional Scheduled,EGGW,EKCH,AEE
+S,Traditional Scheduled,LFPO,EPWA,LOT
+S,Traditional Scheduled,LTAC,EGLL,VIR
+S,All-Cargo,LTFJ,EHAM,FDX
+S,Lowcost,LKMT,ESSA,NAX
+S,Traditional Scheduled,ESGG,LGIR,IBE
+S,Traditional Scheduled,LSZB,LGAV,AEE
+S,Traditional Scheduled,EGPH,LEBL,IBE
+S,Traditional Scheduled,BIKF,EIDW,EIN
+S,Traditional Scheduled,EDDB,EFHK,FIN
+S,Lowcost,LMML,LOWG,RYR
+S,All-Cargo,LGTS,EDDK,UPS
+S,Lowcost,CYYZ,LOWG,TOM
+S,Traditional Scheduled,LBWN,LFPO,TAP
+S,Lowcost,ENGM,EGKK,EZY
+S,All-Cargo,LCLK,LPFR,DHK
+S,Traditional Scheduled,OMDB,LEBL,AEE
+N,Charter,RJAA,LSZH,TUI
+S,Traditional Scheduled,LIRF,EFHK,FIN
+S,Traditional Scheduled,LEAL,LPPT,LOT
+S,Traditional Scheduled,EGGW,ESMS,AEE
+S,Traditional Scheduled,LTBJ,EGKK,TAP
+S,Traditional Scheduled,LTBJ,EDDL,DLH
+N,Charter,LFPO,LPPT,TUI
+N,Charter,EETN,EDDM,CFG
+S,Lowcost,EGGW,EGKK,TOM
+N,Lowcost,LIME,EHAM,EJU
+S,Lowcost,LKMT,EGGW,EZY
+S,Lowcost,EGLL,KATL,NAX
+S,Lowcost,LIPZ,LKPR,TVS
+S,Traditional Scheduled,EGLL,LEBL,IBE
+S,Traditional Scheduled,ESSA,EGLL,VIR
+N,Charter,LGIR,EDDF,CFG
+S,Traditional Scheduled,ESSA,LEMG,TAP
+N,All-Cargo,LHBP,EHAM,UPS
+S,Traditional Scheduled,LZIB,EHAM,KLM
+S,All-Cargo,LFBO,EGLL,ABX
+S,All-Cargo,LIME,EPKT,DHK
+S,All-Cargo,ENGM,EDDF,DHK
+S,Lowcost,LSZB,LFLL,WZZ
+S,Traditional Scheduled,LDZA,EFHK,FIN
+S,All-Cargo,BIKF,EKCH,FDX
+S,Traditional Scheduled,LBSF,EGPH,AUA
+S,Traditional Scheduled,LFPG,LEMD,IBE
+S,Lowcost,LFLL,LEZL,EJU
+S,Lowcost,LBSF,EFHK,EZY
+S,Traditional Scheduled,LKPR,LIRF,AZA
+S,Traditional Scheduled,LFLL,UUEE,AZA
+N,Charter,LPFR,EDDM,CFG
+S,Lowcost,LZIB,EGPH,EZY
+S,Lowcost,EGCC,LKPR,TVS
+S,All-Cargo,LIRN,LBWN,UPS
+S,Traditional Scheduled,ENBR,LSGG,SWR
+S,Traditional Scheduled,LROP,EGLL,BAW
+S,Lowcost,LFML,LFPG,EZY
+S,Traditional Scheduled,KORD,LIRF,EIN
+S,Lowcost,LEZL,LFPG,EZY
+S,Traditional Scheduled,EFHK,LTFM,THY
+S,Traditional Scheduled,CYVR,LSZB,FIN
+S,All-Cargo,LFPO,EHAM,UPS
+S,Traditional Scheduled,EVRA,EIDW,EIN
+S,Traditional Scheduled,WSSS,EINN,AUA
+S,All-Cargo,LOWW,EGLL,ABX
+N,Charter,CYYZ,EYVI,CFG
+S,Traditional Scheduled,ELLX,LPPT,TAP
+S,Lowcost,LPPR,LEBL,VLG
+S,Traditional Scheduled,LKMT,ESSA,SAS
+N,Charter,LIRF,LMML,AMC
+S,Traditional Scheduled,LEPA,LPPT,TAP
+S,Traditional Scheduled,LEPA,LEBL,VIR
+S,Lowcost,LIPE,LHBP,WZZ
+S,Traditional Scheduled,LJLJ,LFPO,AFR
+N,Charter,LEAL,EGKK,TUI
+S,Traditional Scheduled,LFLL,LKMT,LOT
+N,Charter,LPPR,EDDF,TUI
+N,Charter,ESSA,EGKK,TUI
+S,Traditional Scheduled,BIKF,EDDM,DLH
+S,Traditional Scheduled,LSGG,LOWW,BAW
+S,Traditional Scheduled,AAL,LHBP,LOT
+S,Traditional Scheduled,LOWW,LROP,DLH
+S,Lowcost,EHAM,LFPG,EZY
+S,Traditional Scheduled,LKPR,LSZH,SWR
+S,Traditional Scheduled,LPPR,EGLL,VIR
+N,Charter,ESMS,EDDM,TUI
+S,All-Cargo,LEMD,LTAC,FDX
+S,Traditional Scheduled,LTAC,EIDW,EIN
+S,Traditional Scheduled,EDDH,LSGG,SWR
+S,Charter,EPGD,LMML,AMC
+S,Traditional Scheduled,LIMC,EIDW,EIN
+S,Traditional Scheduled,EGCC,EIDW,EIN
+S,All-Cargo,LGTS,EDDF,DHK
+S,Lowcost,EVRA,ENGM,TOM
+S,Traditional Scheduled,LGTS,EFHK,FIN
+S,Traditional Scheduled,LMML,KMIA,AEE
+S,All-Cargo,LIRF,EHAM,UPS
+S,Lowcost,ENGM,EGKK,TOM
+S,Lowcost,EPGD,EPWA,WZZ
+S,Traditional Scheduled,LSGG,EFHK,FIN
+S,Lowcost,LPPR,CYYZ,RYR
+S,Traditional Scheduled,LFPG,EDDF,DLH
+N,Lowcost,LJLJ,LROP,WZZ
+S,All-Cargo,EGPH,EDDF,UPS
+S,Lowcost,ESSA,LTFM,PGT
+S,Traditional Scheduled,LRCL,EIDW,EIN
+S,Lowcost,LIPZ,EPWA,WZZ
+S,Lowcost,LGIR,LKPR,TVS
+S,Lowcost,LSZH,LOWW,VLG
+S,Lowcost,LJLJ,EGCC,RYR
+S,Traditional Scheduled,WSSS,LPMA,FIN
+S,Lowcost,EGKK,LFMN,EZY
+S,Lowcost,LEZL,LEBL,VLG
+S,Lowcost,LDZA,ESSA,NAX
+S,Traditional Scheduled,LIME,BIKF,DLH
+S,Traditional Scheduled,EDDL,EIDW,EIN
+N,Charter,EKCH,EDDF,TUI
+S,All-Cargo,LDZA,ESGG,DHK
+S,Traditional Scheduled,LGIR,LFPG,AFR
+N,Lowcost,LDDU,LKPR,TVS
+S,Traditional Scheduled,EBBR,LTFM,THY
+S,Traditional Scheduled,LIPE,LSGG,SWR
+S,Traditional Scheduled,LKMT,LFPG,AFR
+N,Charter,LGTS,EDDM,CFG
+S,Lowcost,LYBE,EDDM,NAX
+S,Traditional Scheduled,ESSA,EDDM,SWR
+S,Lowcost,EGCC,EPWA,WZZ
+S,All-Cargo,LFMN,EGLL,ABX
+S,Traditional Scheduled,LTAC,EGKK,BAW
+S,Traditional Scheduled,LSZH,LFPO,KLM
+S,Lowcost,OMDB,LDDU,EZY
+N,All-Cargo,LPMA,EPWA,UPS
+S,Traditional Scheduled,LEZL,EPKK,TAP
+S,Lowcost,LEBL,LYBE,PGT
+S,Traditional Scheduled,EDDL,EGKK,BAW
+S,Traditional Scheduled,EGKK,EDDF,SWR
+S,Lowcost,LEPA,LIMC,PGT
+S,Lowcost,EETN,LKPR,TVS
+S,Traditional Scheduled,EDDF,LOWW,FIN
+S,Traditional Scheduled,EGLL,EPKK,DLH
+S,Traditional Scheduled,ESSA,LOWW,AUA
+S,Traditional Scheduled,LGTS,ESGG,AZA
+S,Traditional Scheduled,EGKK,EDDK,AEE
+S,Traditional Scheduled,LFPO,LRCL,EIN
+S,All-Cargo,LTFJ,EDDF,DHK
+S,Traditional Scheduled,EGKK,LIRF,AZA
+S,Lowcost,LPMA,LTFJ,PGT
+S,Lowcost,LPPR,LEMD,VLG
+S,Traditional Scheduled,LFPO,LEMD,TAP
+S,Traditional Scheduled,EKCH,EGLL,VIR
+S,Traditional Scheduled,UUEE,LSGG,SWR
+N,Lowcost,LEPA,LIMC,EJU
+N,Charter,LPPT,EDDM,CFG
+S,Traditional Scheduled,EDDB,EPKK,LOT
+S,Traditional Scheduled,LTAC,LEZL,AUA
+S,Traditional Scheduled,LEMG,EIDW,EIN
+S,All-Cargo,LPMA,EDDF,DHK
+S,Traditional Scheduled,LOWL,EDDB,KLM
+S,All-Cargo,EGPH,LFPG,FDX
+S,Lowcost,LPPT,LKPR,TVS
+S,Lowcost,LSGG,EGGW,EZY
+S,Traditional Scheduled,EDDM,EGLL,VIR
+S,Lowcost,LIMC,LTFJ,PGT
+S,Traditional Scheduled,LRCL,EIDW,SWR
+S,Traditional Scheduled,LIRF,LEMD,BAW
+S,All-Cargo,LIRF,LEAL,ABX
+S,All-Cargo,EDDK,LSZB,UPS
+S,Traditional Scheduled,LHBP,LEBL,IBE
+S,Traditional Scheduled,LFPG,EGLL,BAW
+S,Lowcost,ENBR,LKPR,TVS
+S,Traditional Scheduled,LMML,EGKK,BAW
+S,Lowcost,LROP,EGKK,TOM
+S,Traditional Scheduled,EDDB,ENGM,SAS
+S,Traditional Scheduled,EDDK,EPKK,LOT
+S,Traditional Scheduled,LFBO,LEMG,EIN
